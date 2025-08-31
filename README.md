@@ -1,7 +1,7 @@
 # 🛡️ Insurance Claim Fraud Prediction  
 
 A complete **end-to-end Data Science project** to predict fraudulent insurance claims.  
-This project demonstrates **data engineering, SQL analysis, exploratory data analysis (EDA), machine learning, model optimization, and deployment** using a synthetic but realistic dataset of 5,000 records.  
+This project demonstrates **data engineering, SQL analysis, exploratory data analysis (EDA), machine learning, model optimization, and deployment** using a dataset of 5,000 records.
 
 ---
 Live Project Link : https://insurance-claim-fraud-prediction.streamlit.app/
